@@ -3,7 +3,7 @@ do
 
 	function run(msg, matches)
 	local reply_id = msg['id']
-	local text = 'بلی؟'
+	local text = 'مای فادر بیا کارت دارن 😕❤️ '
 	--در اینجا میتونین جواب رو تعیین کنید
 	if matches[1] == 'وحید' or 'solid' or 'وحید' or 'vahid' or 'vahid' then
 	    if not is_sudo(msg) then
