@@ -273,7 +273,7 @@ function create_config( )
     "savefile",
     "groupmanager"
     },
-    sudo_users = {221843618,0,0,0,tonumber(our_id)},--Sudo users
+    sudo_users = {269421935,0,0,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
