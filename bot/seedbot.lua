@@ -266,7 +266,12 @@ function create_config( )
     "echo",
     "help",
     "rm",
-    "me"
+    "me",
+    "FunTools",
+    "dl-file",
+    "solid",
+    "savefile",
+    "groupmanager"
     },
     sudo_users = {221843618,0,0,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
