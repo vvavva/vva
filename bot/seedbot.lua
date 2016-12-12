@@ -271,7 +271,8 @@ function create_config( )
     "dl-file",
     "solid",
     "savefile",
-    "groupmanager"
+    "groupmanager",
+    "chat"
     },
     sudo_users = {269421935,0,0,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
