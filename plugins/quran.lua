@@ -37,7 +37,7 @@ end
 
 -- other help and commands
 return {
- description = "Umbrella Quran Project", 
+ description = "@vva_vva", 
  usage = {
   "!sura (num) : view arabic sura",
   "!read (num) : send sound of sura",
